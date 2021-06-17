@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="box-container"
+  >
+    <div
+      class="box"
+    >
+      <b>
+        Name: 
+      </b>
+      <a
+        data-testid="name"
+      >
+        username
+      </a>
+      <br />
+      <b>
+        Email: 
+      </b>
+      <a
+        data-testid="email"
+        href="mailto: email"
+      >
+        email
+      </a>
+      <br />
+      <b>
+        Telephone: 
+      </b>
+      <a
+        data-testid="phone"
+        href="tel:+65-12333"
+      >
+         +65-12333 
+      </a>
+      <br />
+    </div>
+  </div>
+</DocumentFragment>
+`;
